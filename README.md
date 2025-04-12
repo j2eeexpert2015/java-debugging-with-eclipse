@@ -44,6 +44,24 @@ If you'd like **Discount Coupons** for any of the courses, feel free to **email*
 
 ---
 
+## 👤 About the Instructor
+
+[![Ayan Dutta - Instructor](https://img-c.udemycdn.com/user/200_H/5007784_d6b8.jpg)](https://www.udemy.com/user/ayandutta/)
+
+Hi, I’m **Ayan Dutta**, a Software Architect, Instructor, and Content Creator.  
+I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Python**, and more.
+
+---
+## 🌐 Connect With Me
+
+- 💬 **Slack Group:** [Join Here](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
+- 🔗 **YouTube:** [LearningFromExperience](https://www.youtube.com/@learningfromexperience)  
+- 📝 **Medium Blog:** [@mrayandutta](https://medium.com/@mrayandutta)  
+- 💼 **LinkedIn:** [Ayan Dutta](https://www.linkedin.com/in/ayan-dutta-a41091b/)  
+- 📧 **Email:** j2eeexpert2015@gmail.com
+---
+
+
 ## 📚 Explore My Udemy Courses
 
 ### 🧩 Java Debugging Courses with Eclipse ,Intellij IDEA and VS Code 
@@ -94,31 +112,4 @@ If you'd like **Discount Coupons** for any of the courses, feel free to **email*
 [![Creational Design Patterns in Java](https://img-c.udemycdn.com/course/480x270/779796_5770_2.jpg)](https://www.udemy.com/course/design-patterns-in-javacreational)  
 **[Creational Design Patterns in Java](https://www.udemy.com/course/design-patterns-in-javacreational)**
 
----
 
-## 🌐 Connect With Me
-
-- 💬 **Slack Group:** [Join Here](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
-- 🔗 **YouTube:** [LearningFromExperience](https://www.youtube.com/@learningfromexperience)  
-- 📝 **Medium Blog:** [@mrayandutta](https://medium.com/@mrayandutta)  
-- 💼 **LinkedIn:** [Ayan Dutta](https://www.linkedin.com/in/ayan-dutta-a41091b/)  
-- 📧 **Email:** j2eeexpert2015@gmail.com
-
----
-
-## 👤 About the Instructor
-
-[![Ayan Dutta - Instructor](https://img-c.udemycdn.com/user/200_H/5007784_d6b8.jpg)](https://www.udemy.com/user/ayandutta/)
-
-Hi, I’m **Ayan Dutta**, a Software Architect, Instructor, and Content Creator.  
-I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Python**, and more.
-
-### 🔗 Connect With Me
-
-[![Udemy](https://img.shields.io/badge/Udemy-My%20Courses-blueviolet?logo=Udemy)](https://www.udemy.com/user/ayandutta/)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@learningfromexperience)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ayan-dutta-a41091b/)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@mrayandutta)
-[![Slack](https://img.shields.io/badge/Slack-Community-blue?logo=slack)](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)
-
-📫 **Email:** j2eeexpert2015@gmail.com
