@@ -63,7 +63,6 @@ I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Pyt
 
 ---
 
-📺 Watch on YouTube
 🎥 Explore tutorials and productivity tips on my YouTube channel:
 ➡️ <strong><a href="https://www.youtube.com/@learningfromexperience" target="_blank">Visit LearningFromExperience on YouTube</a></strong>
 
