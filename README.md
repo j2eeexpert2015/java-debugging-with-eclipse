@@ -98,6 +98,7 @@ If you'd like **Discount Coupons** for any of the courses, feel free to **email*
 
 ## 🌐 Connect With Me
 
+- 💬 **Slack Group:** [Join Here](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
 - 🔗 **YouTube:** [LearningFromExperience](https://www.youtube.com/@learningfromexperience)  
 - 📝 **Medium Blog:** [@mrayandutta](https://medium.com/@mrayandutta)  
 - 💼 **LinkedIn:** [Ayan Dutta](https://www.linkedin.com/in/ayan-dutta-a41091b/)  
