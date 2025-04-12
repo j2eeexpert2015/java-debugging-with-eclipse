@@ -40,36 +40,36 @@ This is a complete course to master Eclipse IDE debugging—from beginner-friend
 - 📢 After joining, go to the `#java-debugging-with-intellij-idea-udemy` channel  
 - 📧 Email: **j2eeexpert2015@gmail.com** (for queries or coupon requests)  
 
-If you'd like **discount coupons** for any of the courses, feel free to **email** or **message me on Slack**!
+If you'd like **Discount Coupons** for any of the courses, feel free to **email** or **message me on Slack**!
 
 ---
 
 ## 📚 Explore My Udemy Courses
 
-### 🧩 Eclipse Courses
+### 🧩 Java Debugging Courses with Eclipse ,Intellij IDEA and VS Code 
 
 [![Eclipse Debugging Techniques And Tricks](https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg)](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)  
 **[Eclipse Debugging Techniques And Tricks](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)**
 
-[![Git and GitHub with Eclipse](https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg)](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide)  
-**[Learn to use Git and Github with Eclipse: A Complete Guide](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide)**
+[![Java Debugging with IntelliJ IDEA](https://img-c.udemycdn.com/course/480x270/2608314_47e4.jpg)](https://www.udemy.com/course/java-debugging-with-intellij-idea)  
+**[Java Debugging With IntelliJ IDEA](https://www.udemy.com/course/java-debugging-with-intellij-idea)**
+
+[![Java Debugging with VS Code](https://img-c.udemycdn.com/course/480x270/5029852_d692_3.jpg)](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide)  
+**[Learn Java Debugging using VS Code](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide)**
 
 ---
 
-### 💡 IntelliJ IDEA Courses
+### 💡 Java Productivity with IntelliJ IDEA 
 
 [![IntelliJ IDEA Tips](https://img-c.udemycdn.com/course/480x270/6180669_7726.jpg)](https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity)  
 **[IntelliJ IDEA Tips & Tricks: Boost Your Java Productivity](https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity)**
 
-[![Java Debugging with IntelliJ IDEA](https://img-c.udemycdn.com/course/480x270/2608314_47e4.jpg)](https://www.udemy.com/course/java-debugging-with-intellij-idea)  
-**[Java Debugging With IntelliJ IDEA](https://www.udemy.com/course/java-debugging-with-intellij-idea)**
-
 ---
 
-### 🧪 VS Code Debugging Courses
+### 🧪 Python Debugging Courses with PyCharm and VS Code
 
-[![Java Debugging with VS Code](https://img-c.udemycdn.com/course/480x270/5029852_d692_3.jpg)](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide)  
-**[Learn Java Debugging using VS Code](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide)**
+[![Python Debugging with PyCharm](https://img-c.udemycdn.com/course/480x270/4840890_12a3_2.jpg)](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide)  
+**[Learn Python Debugging With PyCharm IDE](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide)**
 
 [![Python Debugging Full](https://img-c.udemycdn.com/course/480x270/5029842_d36f.jpg)](https://www.udemy.com/course/python-debugging-with-visual-studio-code)  
 **[Python Debugging with Visual Studio Code: A Complete Guide](https://www.udemy.com/course/python-debugging-with-visual-studio-code)**
@@ -84,19 +84,15 @@ If you'd like **discount coupons** for any of the courses, feel free to **email*
 [![GitHub Desktop](https://img-c.udemycdn.com/course/480x270/6112307_3b4e_2.jpg)](https://www.udemy.com/course/getting-started-with-github-desktop)  
 **[Complete GitHub Desktop Guide](https://www.udemy.com/course/getting-started-with-github-desktop)**
 
+[![Git and GitHub with Eclipse](https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg)](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide)  
+**[Learn to use Git and Github with Eclipse: A Complete Guide](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide)**
+
 ---
 
 ### 🧱 Java & Design Patterns
 
 [![Creational Design Patterns in Java](https://img-c.udemycdn.com/course/480x270/779796_5770_2.jpg)](https://www.udemy.com/course/design-patterns-in-javacreational)  
 **[Creational Design Patterns in Java](https://www.udemy.com/course/design-patterns-in-javacreational)**
-
----
-
-### 🐍 Python Debugging Courses
-
-[![Python Debugging with PyCharm](https://img-c.udemycdn.com/course/480x270/4840890_12a3_2.jpg)](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide)  
-**[Learn Python Debugging With PyCharm IDE](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide)**
 
 ---
 
