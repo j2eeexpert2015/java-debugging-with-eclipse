@@ -17,7 +17,7 @@ Use these one-liners in Eclipse **Detail Formatter** or **Display View** to pret
 
 ```java
 // Jackson
-new com.fasterxml.jackson.databind.ObjectMapper().writerWithDefaultPrettyPrinter().writeValueAsString(this);
+new com.fasterxml.jackson.databind.ObjectMapper().writeValueAsString(this);
 
 // Gson
 new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(this);
