@@ -63,9 +63,8 @@ I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Pyt
 
 ---
 
-🎥 Explore tutorials and productivity tips on my YouTube channel:
-➡️ <strong><a href="https://www.youtube.com/@learningfromexperience" target="_blank">Visit LearningFromExperience on YouTube</a></strong>
-
+📺 Subscribe on YouTube
+<a href="https://www.youtube.com/@learningfromexperience" target="_blank"> <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Subscribe Badge"/> </a>
 ---
 
 
