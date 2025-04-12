@@ -1,5 +1,5 @@
 
-# Eclipse Debugging Tutorial
+# Eclipse Debugging Techniques And Tricks 
 
 This repository contains sample code, hands-on examples, and problem scenarios used in the Udemy course **"Eclipse Debugging Techniques And Tricks"**.
 
@@ -27,18 +27,16 @@ new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(this);
 
 ## 🎓 Part of the Full Udemy Course
 
-<a href="https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg" alt="Eclipse Debugging Techniques And Tricks"/>
-</a>
+[![Eclipse Debugging Techniques And Tricks](https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg)](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)
 
-➡️ <a href="https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks" target="_blank"><strong>Eclipse Debugging Techniques And Tricks</strong></a>  
+➡️ **[Eclipse Debugging Techniques And Tricks](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/)**  
 This is a complete course to master Eclipse IDE debugging—from beginner-friendly tips to advanced real-world debugging techniques.
 
 ---
 
 ## 💬 Join Our Developer Community
 
-- 👉 <a href="https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA" target="_blank">Join the Slack Group</a>  
+- 👉 [Join the Slack Group](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)  
 - 📢 After joining, go to the `#java-debugging-with-intellij-idea-udemy` channel  
 - 📧 Email: **j2eeexpert2015@gmail.com** (for queries or coupon requests)  
 
@@ -50,72 +48,51 @@ If you'd like **Discount Coupons** for any of the courses, feel free to **email*
 
 ### 🧩 Java Debugging Courses with Eclipse ,Intellij IDEA and VS Code 
 
-<a href="https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg" alt="Eclipse Debugging Techniques And Tricks"/>
-</a>  
-**<a href="https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks" target="_blank">Eclipse Debugging Techniques And Tricks</a>**
+[![Eclipse Debugging Techniques And Tricks](https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg)](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)  
+**[Eclipse Debugging Techniques And Tricks](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)**
 
-<a href="https://www.udemy.com/course/java-debugging-with-intellij-idea" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/2608314_47e4.jpg" alt="Java Debugging With IntelliJ IDEA"/>
-</a>  
-**<a href="https://www.udemy.com/course/java-debugging-with-intellij-idea" target="_blank">Java Debugging With IntelliJ IDEA</a>**
+[![Java Debugging with IntelliJ IDEA](https://img-c.udemycdn.com/course/480x270/2608314_47e4.jpg)](https://www.udemy.com/course/java-debugging-with-intellij-idea)  
+**[Java Debugging With IntelliJ IDEA](https://www.udemy.com/course/java-debugging-with-intellij-idea)**
 
-<a href="https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/5029852_d692_3.jpg" alt="Learn Java Debugging using VS Code"/>
-</a>  
-**<a href="https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide" target="_blank">Learn Java Debugging using VS Code</a>**
+[![Java Debugging with VS Code](https://img-c.udemycdn.com/course/480x270/5029852_d692_3.jpg)](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide)  
+**[Learn Java Debugging using VS Code](https://www.udemy.com/course/java-debugging-with-visual-studio-code-the-ultimate-guide)**
 
 ---
 
 ### 💡 Java Productivity with IntelliJ IDEA 
 
-<a href="https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/6180669_7726.jpg" alt="IntelliJ IDEA Tips"/>
-</a>  
-**<a href="https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity" target="_blank">IntelliJ IDEA Tips & Tricks: Boost Your Java Productivity</a>**
+[![IntelliJ IDEA Tips](https://img-c.udemycdn.com/course/480x270/6180669_7726.jpg)](https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity)  
+**[IntelliJ IDEA Tips & Tricks: Boost Your Java Productivity](https://www.udemy.com/course/intellij-idea-tips-tricks-boost-your-java-productivity)**
 
 ---
 
 ### 🧪 Python Debugging Courses with PyCharm and VS Code
 
-<a href="https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/4840890_12a3_2.jpg" alt="Python Debugging with PyCharm"/>
-</a>  
-**<a href="https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide" target="_blank">Learn Python Debugging With PyCharm IDE</a>**
+[![Python Debugging with PyCharm](https://img-c.udemycdn.com/course/480x270/4840890_12a3_2.jpg)](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide)  
+**[Learn Python Debugging With PyCharm IDE](https://www.udemy.com/course/learn-python-debugging-with-pycharm-ide)**
 
-<a href="https://www.udemy.com/course/python-debugging-with-visual-studio-code" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/5029842_d36f.jpg" alt="Python Debugging Full"/>
-</a>  
-**<a href="https://www.udemy.com/course/python-debugging-with-visual-studio-code" target="_blank">Python Debugging with Visual Studio Code: A Complete Guide</a>**
+[![Python Debugging Full](https://img-c.udemycdn.com/course/480x270/5029842_d36f.jpg)](https://www.udemy.com/course/python-debugging-with-visual-studio-code)  
+**[Python Debugging with Visual Studio Code: A Complete Guide](https://www.udemy.com/course/python-debugging-with-visual-studio-code)**
 
-<a href="https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/6412275_a17d.jpg" alt="Python Debugging Free"/>
-</a>  
-**<a href="https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code" target="_blank">Get Started with Python Debugging in Visual Studio Code (Free Course)</a>**
+[![Python Debugging Free](https://img-c.udemycdn.com/course/480x270/6412275_a17d.jpg)](https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code)  
+**[Get Started with Python Debugging in Visual Studio Code (Free Course)](https://www.udemy.com/course/get-started-with-python-debugging-in-visual-studio-code)**
 
 ---
 
 ### 🛠 Git & GitHub Courses
 
-<a href="https://www.udemy.com/course/getting-started-with-github-desktop" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/6112307_3b4e_2.jpg" alt="GitHub Desktop"/>
-</a>  
-**<a href="https://www.udemy.com/course/getting-started-with-github-desktop" target="_blank">Complete GitHub Desktop Guide</a>**
+[![GitHub Desktop](https://img-c.udemycdn.com/course/480x270/6112307_3b4e_2.jpg)](https://www.udemy.com/course/getting-started-with-github-desktop)  
+**[Complete GitHub Desktop Guide](https://www.udemy.com/course/getting-started-with-github-desktop)**
 
-<a href="https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg" alt="Git and GitHub with Eclipse"/>
-</a>  
-**<a href="https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide" target="_blank">Learn to use Git and Github with Eclipse: A Complete Guide</a>**
+[![Git and GitHub with Eclipse](https://img-c.udemycdn.com/course/480x270/3369428_995b.jpg)](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide)  
+**[Learn to use Git and Github with Eclipse: A Complete Guide](https://www.udemy.com/course/learn-to-use-git-and-github-with-eclipse-a-complete-guide)**
 
 ---
 
 ### 🧱 Java & Design Patterns
 
-<a href="https://www.udemy.com/course/design-patterns-in-javacreational" target="_blank">
-  <img src="https://img-c.udemycdn.com/course/480x270/779796_5770_2.jpg" alt="Creational Design Patterns in Java"/>
-</a>  
-**<a href="https://www.udemy.com/course/design-patterns-in-javacreational" target="_blank">Creational Design Patterns in Java</a>**
-
+[![Creational Design Patterns in Java](https://img-c.udemycdn.com/course/480x270/779796_5770_2.jpg)](https://www.udemy.com/course/design-patterns-in-javacreational)  
+**[Creational Design Patterns in Java](https://www.udemy.com/course/design-patterns-in-javacreational)**
 
 ---
 
