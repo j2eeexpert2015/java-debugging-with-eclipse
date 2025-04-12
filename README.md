@@ -63,10 +63,7 @@ I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Pyt
 
 ---
 
-📺 Subscribe on YouTube
-<a href="https://www.youtube.com/@learningfromexperience" target="_blank"> <img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube Subscribe Badge"/> </a>
----
-## 📺 Watch on YouTube
+## 📺 Subscribe on YouTube
 
 [![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learningfromexperience)
 
