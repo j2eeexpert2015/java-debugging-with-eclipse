@@ -25,7 +25,7 @@ new com.google.gson.GsonBuilder().setPrettyPrinting().create().toJson(this);
 
 ---
 
-## 🎓 Part of the Full Udemy Course
+## 🎓 This Repository is part of the following Udemy Course
 
 [![Eclipse Debugging Techniques And Tricks](https://img-c.udemycdn.com/course/480x270/417118_3afa_4.jpg)](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks)
 
